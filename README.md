@@ -22,6 +22,6 @@ $ conda env create --file environment.yml
 run the training script
 
 ```
-python ./driver/cls_driver/train.py
+$ python ./driver/cls_driver/train.py
 ```
 
